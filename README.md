@@ -1,5 +1,4 @@
-# PD
-Phylogenetic Diversity simulations and calculations 
+#PD -- Phylogenetic Diversity simulations and calculations 
 
 Here (eventually/maybe) you will find documentation about PD.
 
