@@ -10,3 +10,5 @@ Written in C++, PD provides tools to
 At the moment (Sep 2017), it is entirely **old school** in that it is a **command line tool** outputting a csv formatted file, and phylogenetic trees in a newick form.
 
 But it is written in a totally modular way and can/will be called from R and Python (when I get some time and opportunity).
+
+Further documentation will be added as I write it to [the project wiki](https://github.com/gjolleyrogers/PD/wiki)
