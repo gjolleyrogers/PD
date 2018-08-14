@@ -5,7 +5,13 @@ Here (eventually/maybe) you will find documentation about PD.
 Written in C++, PD provides tools to
 * analyse _Phylogenetic Diversity_ of phylogenetic trees and _targeted portions_ thereof.
 * It also generates _simulated trees_ using birth death process etc, and 
-* _simulates_ the process of discovery of species (taxa) from phylogenetic trees.
+* _simulates_ the process  They will run on any system that will compile the sources. 
+
+Code uses the Standard Template Library. 
+
+Configuration files are provided for  cmake so it can be compiled and run on many operating systems. 
+ 
+
 
 At the moment (Sep 2017), it is entirely **old school** in that it is a **command line tool** outputting a csv formatted file, and phylogenetic trees in a newick form.
 
